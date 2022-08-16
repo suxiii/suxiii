@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://raw.githubusercontent.com/suxiii/suxiii/master/background.jpg" alt="Profile Background">
+        <img src="https://raw.githubusercontent.com/suxiii/suxiii/master/cover.jpg" alt="Profile Cover">
     </a>
 </p>
 
