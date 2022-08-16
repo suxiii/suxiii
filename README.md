@@ -1,17 +1,17 @@
 # [@suxiii](https://github.com/suxiii) / About me
 
-<p align="center">
-    <a href="#">
-        <img src="https://raw.githubusercontent.com/suxiii/suxiii/master/background.jpg" alt="Profile Background">
-    </a>
-</p>
-
 <h1 align="center">Hi 👋, I'm
     <a href="https://github.com/suxiii">Suxiii</a>.
 </h1>
 <h3 align="center">A passionate frontend developer from
     <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
 </h3>
+
+<p align="center">
+    <a href="#">
+        <img src="https://raw.githubusercontent.com/suxiii/suxiii/master/background.jpg" alt="Profile Background">
+    </a>
+</p>
 
 ## 🏆GitHub Trophies
 
