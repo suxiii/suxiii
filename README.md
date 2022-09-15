@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm
     <a href="https://github.com/suxiii">Suxiii</a>.
 </h1>
-<h3 align="center">A passionate frontend developer from
+<h3 align="center">A passionate front-end developer from
     <a href="https://en.wikipedia.org/wiki/Vietnam">Vietnam</a>.
 </h3>
 
