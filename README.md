@@ -1,10 +1,6 @@
 # [@suxiii](https://github.com/suxiii) / About me
 
-<p align="center">
-    <a href="#">
-        <img src="https://raw.githubusercontent.com/suxiii/suxiii/master/cover.jpg" alt="Profile Cover">
-    </a>
-</p>
+ <img src="https://raw.githubusercontent.com/suxiii/suxiii/master/Banner1.gif" alt="Banner 1">
 
 <h1 align="center">Hi 👋, I'm
     <a href="https://github.com/suxiii">Suxiii</a>.
