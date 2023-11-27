@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **HTML**, **CSS** and **Javascript**.
 
-- 📫 How to reach me **hoangnhu@tuturuuu.com**.
+- 📫 How to reach me **<hoangnhu@tuturuuu.com>**.
 
 <!-- ## Connect with me
 
