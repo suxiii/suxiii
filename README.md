@@ -19,11 +19,11 @@
 
 ## About me
 
-- 🔭 I’m currently working on **[Tuturuuu](https://www.tuturuuu.com)**.
+<!-- - 🔭 I’m currently working on **[Tuturuuu](https://www.tuturuuu.com)**. -->
 
 - 💬 Ask me about **HTML**, **CSS** and **Javascript**.
 
-- 📫 How to reach me **<hoangnhu@tuturuuu.com>**.
+- 📫 How to reach me **<tranhoangnhu@gmail.com>**.
 
 <!-- ## Connect with me
 
