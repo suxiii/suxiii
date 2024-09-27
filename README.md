@@ -68,7 +68,8 @@
 </p>
 
 <p align="center">
-    <a href="#statistics">
+   <!-- <a href="#statistics">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=suxiii&theme=dracula&hide_border=true" alt="suxiii" />
-    </a>
+    </a> --!>
+ 
 </p>
