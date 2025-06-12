@@ -38,7 +38,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vohoangphuc" height="30" width="40" />
     </a>
 </p> -->
-
+<!--
 ## Languages and Tools
 
 <p align="left">
@@ -58,7 +58,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a>
 </p>
-
+--> 
  <!--
 ## Statistics
 
