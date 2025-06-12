@@ -21,7 +21,7 @@
 
 <!-- - 🔭 I’m currently working on **[Tuturuuu](https://www.tuturuuu.com)**. -->
 
-- 💬 Ask me about **HTML**, **CSS** and **Javascript**.
+<!-- -- 💬 Ask me about **HTML**, **CSS** and **Javascript**.-->
 
 - 📫 How to reach me **<tranhoangnhu@gmail.com>**.
 
